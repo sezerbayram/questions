@@ -1,0 +1,26 @@
+
+
+p{
+    margin-top: 15px;
+    background-color: powderblue;
+    font-size: 20px;
+    border-radius:5px;
+    border: 1px solid powderblue;
+    padding:5px;
+    text-align: center;
+    
+}
+.head{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+pre{
+    font-size: 20px;
+    font-family: arial;
+    padding:5px;
+    color:rgb(218, 98, 42)
+}
+
+a{
+    text-decoration: none;
+}
